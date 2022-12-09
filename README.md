@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Most of my repositories are from my creative coding practice. 
-
- 🖼 I make and sell digital artwork, check out [@h.scheidl](https://www.instagram.com/h.scheidl/) and 🛒 [hscheidl.com](https://hscheidl.com).  
+I also have a few niche libraries, and my submissions to the Advent of Code.
+ 
+📆 Currently participating in the Advent of Code 2022, using Typescript and Javascript (non-competitive, goal is to finish all puzzles this year)
+🖼 I make and sell digital artwork, check it out [@h.scheidl](https://www.instagram.com/h.scheidl/) and 🛒 [hscheidl.art](https://hscheidl.art).  
  🌱 I’m currently learning how to ask better questions and be a better listener.  
  👯 I’m looking to collaborate on teaching and mentoring.  
  ⚡ Fun fact: I was born here 🇧🇷, and I lived many years in 🇫🇮 and then settled in 🇸🇪.  
