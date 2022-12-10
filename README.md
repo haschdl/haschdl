@@ -3,7 +3,7 @@
 Most of my repositories are from my creative coding practice. 
 I also have a few niche libraries, and my submissions to the Advent of Code.
  
-📆 Currently participating in the Advent of Code 2022, using Typescript and Javascript (non-competitive, goal is to finish all puzzles this year)
+📆 Currently participating in the Advent of Code 2022, using Typescript and Javascript (non-competitive, goal is to finish all puzzles this year). My solutions are published at https://github.com/haschdl/advent-of-code-2022
 
 🖼 I make and sell digital artwork, check it out [@h.scheidl](https://www.instagram.com/h.scheidl/) and 🛒 [hscheidl.art](https://hscheidl.art).  
 
